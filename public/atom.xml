@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ye&#39;s Blog</title>
+  
+  
+  <link href="//public/atom.xml" rel="self"/>
+  
+  <link href="https://dingye18.github.io/"/>
+  <updated>2018-08-09T13:16:13.904Z</updated>
+  <id>https://dingye18.github.io/</id>
+  
+  <author>
+    <name>Ye Ding</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Introduction to WHAM</title>
+    <link href="https://dingye18.github.io/2018/08/08/Introduction-to-WHAM/"/>
+    <id>https://dingye18.github.io/2018/08/08/Introduction-to-WHAM/</id>
+    <published>2018-08-08T04:00:00.000Z</published>
+    <updated>2018-08-09T13:16:13.904Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is a blog for WHAM introduction. And it&#39;s also a notes for seminar of our lab 8.9. Most of this note will focus on mathematical background of WHAM.
+    
+    </summary>
+    
+      <category term="reaserch notes" scheme="https://dingye18.github.io/categories/reaserch-notes/"/>
+    
+    
+  </entry>
+  
+</feed>
