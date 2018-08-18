@@ -1,5 +1,5 @@
 ---
-title: Ye Ding
+title: 丁野（Ye Ding）
 date: 2018-08-09 21:51:28
 ---
 
